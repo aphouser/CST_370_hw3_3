@@ -1,3 +1,13 @@
+/*
+ * HackerRank link:https://www.hackerrank.com/contests/cst370-su20-hw3/challenges/equal-groups/submissions/code/1323407591
+ * Title: hw3_3.java
+ * Abstract: Reads user input of number of elements in a set and then those set elements.
+ *          Output is all combinations of those elements
+ * Author: Adam Houser
+ * ID: 1144
+ * Date: 5/6/2020
+ */
+
 import java.util.*;
 
 public class hw3_3 {
