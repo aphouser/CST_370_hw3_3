@@ -48,7 +48,6 @@ public class hw3_3 {
             }
 
             sums.add(tempSum);
-            tempSum = 0;
         }
 
         in.close();
